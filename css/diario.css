@@ -1,0 +1,24 @@
+body{
+    background-image: url("/img/gerbera.jpg");
+    background-attachment: fixed;
+    background-size: 1880px;
+}
+
+.caja{
+    padding: 15px;
+    margin: auto;
+    width: 70%;
+    height: 1000px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+h1{
+    margin: 50px;
+}
+
+.texto{
+    margin: 50px;
+    text-align: justify;
+    text-indent: 50px;
+}
