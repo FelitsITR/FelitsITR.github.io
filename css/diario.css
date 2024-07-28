@@ -1,7 +1,9 @@
 body{
     background-image: url("/img/gerbera.jpg");
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 1880px;
+    background-position: center;
+    background-size: contain;
 }
 
 .caja{
