@@ -10,9 +10,10 @@ body{
     padding: 15px;
     margin: auto;
     width: 70%;
-    height: 1000px;
+    height: 80%;
     background-color: white;
     border-radius: 20px;
+    overflow: hidden; /* Asegura que nada se salga del contenedor */
 }
 
 h1{
